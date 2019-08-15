@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"downloader_precedence":
+	{
+		"linux":
+		[
+			"curl",
+			"urllib",
+			"wget"
+		],
+		"osx":
+		[
+			"curl",
+			"urllib"
+		],
+		"windows":
+		[
+			"wininet"
+		]
+	},
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoSpell",
+		"GitHub Flavored Markdown Preview",
+		"Google Spell Check",
+		"MarkdownLivePreview",
+		"Package Control",
+		"Theme - Afterglow"
+	]
+}
